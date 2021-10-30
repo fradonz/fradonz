@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fradonz
 - 👀 I’m interested in machine learning in food engineering
-- 🌱 I’m currently learning using grey-box systems for predicting microbial inactivation
+- 🌱 I’m currently learning to use grey-box systems for predicting microbial inactivation (mainly R)
 - 💞️ I’m looking to collaborate on the use of machine learning in food engineering
 - 📫 How to reach me: fdonsi@unisa.it
 
